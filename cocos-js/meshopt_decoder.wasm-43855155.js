@@ -1,10 +1,3 @@
-System.register([], (function (exports, module) {
-	'use strict';
-	return {
-		execute: (function () {
-
-			var meshopt_decoder_wasm = exports('default', 'assets/meshopt_decoder.wasm-12c0a404.wasm'); /* asset-hash:bedd883e */
-
-		})
-	};
-}));
+version https://git-lfs.github.com/spec/v1
+oid sha256:23b5efa6b66f27eefe7abd4811fb02adb04910cfd0209bfbb0f12e9ef47abc91
+size 238
